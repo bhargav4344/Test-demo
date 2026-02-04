@@ -1,1 +1,6 @@
-file data.
+file data :
+
+a
+bb
+ccc
+dddd
